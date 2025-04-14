@@ -1,5 +1,9 @@
 ## 안녕하세요, 보안전문가 심서훈 입니다.
 
+### Contact
+<a href="https://www.instagram.com/ssh_0807x2/"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://velog.io/@s_s877h/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+
 <!--
 **Simseoh/Simseoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
