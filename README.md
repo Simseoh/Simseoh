@@ -3,7 +3,7 @@
 ### 🔗 Contact
 <a href="https://www.instagram.com/ssh_0807x2/"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://velog.io/@s_s877h/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-<a href="https://portfolio-site-ox1q.vercel.app/"><img src="https://img.shields.io/badge/portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="https://portfolio-site-ox1q.vercel.app/" target="blank"><img src="https://img.shields.io/badge/portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
 
 <!--
 **Simseoh/Simseoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
